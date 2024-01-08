@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "frames-zoom"
+name = "frames_zoom"
 version = "0.1.0"
 description = ""
 authors = ["José Beltrán", "Alexander Christiansson <develop@begeospatial.com>"]

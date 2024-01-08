@@ -6,8 +6,8 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
-    name="streamlit-frames-zoom-component",
-    version="0.0.1",
+    name="frames_zoom",
+    version="0.1.0",
     author="BeGeoSpatial",
     author_email="develop@begeospatial.com",
     description="Streamlit component that allows you zoom, crop and render a backgound image to be segmented inside a rectangle box.",
