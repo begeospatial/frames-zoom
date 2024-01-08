@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: frames_zoom
-Version: 0.1.0
+Name: frames-zoom
+Version: 0.1.1
 Summary: Streamlit component that allows you zoom, crop and render a backgound image to be segmented inside a rectangle box.
 Home-page: 
 Author: BeGeoSpatial
